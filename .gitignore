@@ -1,0 +1,37 @@
+# =========================
+# Archivos del sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos de editores
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Archivos de dependencias (si usas npm/yarn en el futuro)
+# =========================
+node_modules/
+package-lock.json
+yarn.lock
+
+# =========================
+# Archivos de compilación (si usas preprocesadores en el futuro)
+# =========================
+dist/
+build/
+
+# =========================
+# Archivos de caché
+# =========================
+.cache/
+*.log
+
+# =========================
+# Otros
+# =========================
+.env
